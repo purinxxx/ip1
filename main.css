@@ -1,4 +1,4 @@
-img{
+.color{
 	-webkit-filter: grayscale(100%);
 	-o-filter: grayscale(100%);
 	filter: grayscale(100%);
@@ -8,7 +8,7 @@ img{
 	     -o-transition: all .5s ease-out;
 	        transition: all .5s ease-out;
 }
-img:hover{
+.color:hover{
 	-webkit-filter: grayscale(0%);
 	-o-filter: grayscale(0%);
 	filter: grayscale(0%);
@@ -22,7 +22,18 @@ body{
 	margin: auto;
 }
 p{
+	font-size: 18px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	display: inline-block;
+	float: right;
+	margin-top: 59px;
+}
+.logo{
 	margin-left: 20px;
+}
+.header{
+	margin-top: 20px;
 }
 @media screen and (min-width:600px) and (max-width:800px) { 
     body{
