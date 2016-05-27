@@ -22,6 +22,7 @@ body{
 	margin: auto;
 }
 p{
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
 	font-size: 18px;
 	margin-right: 20px;
 	margin-bottom: 0px;
