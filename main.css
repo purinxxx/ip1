@@ -35,6 +35,7 @@ p{
 }
 .header{
 	margin-top: 20px;
+	margin-bottom: 10px;
 }
 @media screen and (min-width:600px) and (max-width:800px) { 
     body{
